@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Notenskala</string>
+    <string name="maxPoints">Punkte für eine 6</string>
+    <string name="suffPoints">Punkte für eine 4</string>
+    <string name="pointsPath">Punkteschritt</string>
+    <string name="roundGradeTo">Noten runden auf</string>
+
+    <string-array name="points_path_array">
+        <item>Ganze Punkte</item>
+        <item>Halbe Punkte</item>
+        <item>Viertelpunkte</item>
+        <item>Zehntelpunkte</item>
+    </string-array>
+
+    <string-array name="grade_round_array">
+        <item>Halbe Note</item>
+        <item>Viertel Note</item>
+        <item>Zehntel Note</item>
+    </string-array>
+    <string name="myPoints">Meine Punktzahl</string>
+    <string name="grade">Note:</string>
+
+</resources>
